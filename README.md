@@ -3,6 +3,6 @@ simple notepad using javafx
 
 
 
-###notes 
+### notes 
 
 this took around 2 hours 
